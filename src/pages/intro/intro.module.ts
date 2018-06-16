@@ -10,4 +10,6 @@ import { IntroPage } from './intro';
     IonicPageModule.forChild(IntroPage),
   ],
 })
-export class IntroPageModule {}
+export class IntroPageModule {
+  static HttpModule: any;
+}

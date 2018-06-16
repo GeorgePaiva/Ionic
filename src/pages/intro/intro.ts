@@ -28,5 +28,6 @@ export class IntroPage {
   goToTabsPage(){
       this.navCtrl.push(TabsPage)
   }
+  
 
 }
