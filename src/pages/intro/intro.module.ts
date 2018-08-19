@@ -11,5 +11,5 @@ import { IntroPage } from './intro';
   ],
 })
 export class IntroPageModule {
-  static HttpModule: any;
+  public static HttpModule: any;
 }
